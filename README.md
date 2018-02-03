@@ -30,7 +30,7 @@ background: red; // change color to you like
 
 
 # example
-See [demo](https://shisama.github.io/pulsator/demo/)!
+See [demo](https://shisama.github.io/Pulsator-CSS/demo/)!
 
 ```html
 <!DOCTYPE html>
@@ -42,6 +42,7 @@ See [demo](https://shisama.github.io/pulsator/demo/)!
   <script async type="application/javascript" src="static/js/demo.js"></script>
 </head>
 <body>
+  click anywhere!
   <div class="pulsator" style="display: none; "></div>
 </body>
 </html>
